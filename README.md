@@ -1,4 +1,5 @@
-# The project uses harmonic modelling and feature engineering techniques to predict malaria cases based on historical data. The main goal was to capture the seasonal patterns in malaria transmission and improve predictions by including past incidence data (lagged variables).
+# Overview:
+The project uses harmonic modelling and feature engineering techniques to predict malaria cases based on historical data. The main goal was to capture the seasonal patterns in malaria transmission and improve predictions by including past incidence data (lagged variables).
 
 # Steps in the Repository:
 Data Preprocessing: Scripts that preprocess the data, including feature extraction from time (month, year) and normalization.
